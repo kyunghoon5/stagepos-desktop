@@ -1,6 +1,3 @@
-# stagepos-desktop
-Professional POS System for Karaoke, Restaurants &amp; Retail - Multi-tenant cloud-based point of sale with Stripe integration
-
 # StagePOS Desktop
 
 <p align="center">
@@ -42,11 +39,11 @@ Professional POS System for Karaoke, Restaurants &amp; Retail - Multi-tenant clo
 
 ## 🤝 Support
 
-- **Issues**: [GitHub Issues](support@singsingmedia.com)
+- **Issues**: [GitHub Issues](https://github.com/kyunghoon5/stagepos-desktop/issues)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kyunghoon5/stagepos-desktop/blob/main/LICENSE) file for details.
 
 ---
 
