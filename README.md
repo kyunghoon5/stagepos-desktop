@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kyunghoon5.github.io/stagepos-desktop">
+  <a href="https://github.com/kyunghoon5/stagepos-desktop/releases/latest">
     <img src="https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows" alt="Download">
   </a>
   <a href="https://github.com/kyunghoon5/stagepos-desktop/releases">
@@ -19,7 +19,7 @@
 
 ## 🚀 Download
 
-**[Download for Windows](https://kyunghoon5.github.io/stagepos-desktop)**
+**[Download for Windows](https://github.com/kyunghoon5/stagepos-desktop/releases/latest)**
 
 ## ✨ Features
 
