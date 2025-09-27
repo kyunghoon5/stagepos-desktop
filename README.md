@@ -29,6 +29,37 @@
 - 🔐 **Security** - Google OAuth, Multi-tenant architecture
 - 🌐 **Cloud** - Real-time sync, Remote management
 
+## 💰 Pricing
+
+### ✅ **100% FREE Software**
+- ✔️ **All POS Features** - Complete access to every feature
+- ✔️ **Unlimited Transactions** - No limits on sales or orders
+- ✔️ **Unlimited Products** - Add as many items as you need
+- ✔️ **Unlimited Users** - No per-user fees
+- ✔️ **Cloud Sync** - Real-time data synchronization
+- ✔️ **Reports & Analytics** - All reporting features included
+- ✔️ **Remote Orders** - Accept orders from anywhere
+- ✔️ **Updates & Support** - Free software updates forever
+
+### 💳 **Payment Processing Fees (Stripe)**
+Only pay when you accept card payments:
+- **Stripe Terminal Fee**: 2.7% + $0.05 per transaction
+- **Platform Fee**: $0.05 per transaction
+- **Total**: 2.7% + $0.10 per card transaction
+- **Cash Payments**: FREE (no fees)
+
+### 🖨️ **Hardware (One-time Purchase)**
+Optional equipment you can buy from any supplier:
+- **ESC/POS Thermal Printer** - Purchase from any vendor
+- **Cash Drawer** - Compatible with most models
+- **Stripe Card Terminal(BBPOS WisePOS E)** - Required only for card payments
+
+### 📝 **Summary**
+- **Software**: FREE forever
+- **Cash transactions**: FREE
+- **Card transactions**: 2.7% + $0.10 (Stripe fees only)
+- **Hardware**: Buy once, use forever
+
 ## 📋 System Requirements
 
 - Windows 10/11 (64-bit)
