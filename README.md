@@ -1,4 +1,4 @@
-# StagePOS Desktop
+# StagePOS
 
 <p align="center">
   <strong>🎭 Professional Cloud-Based POS System</strong><br>
@@ -6,8 +6,11 @@
 </p>
 
 <p align="center">
+  <a href="https://stagepos.com">
+    <img src="https://img.shields.io/badge/Web%20Version-Live-green?style=for-the-badge&logo=google-chrome" alt="Web Version">
+  </a>
   <a href="https://github.com/kyunghoon5/stagepos-desktop/releases/latest">
-    <img src="https://img.shields.io/badge/Download-Windows-blue?style=for-the-badge&logo=windows" alt="Download">
+    <img src="https://img.shields.io/badge/Desktop-Windows-blue?style=for-the-badge&logo=windows" alt="Download">
   </a>
   <a href="https://github.com/kyunghoon5/stagepos-desktop/releases">
     <img src="https://img.shields.io/github/v/release/kyunghoon5/stagepos-desktop?style=for-the-badge" alt="Version">
@@ -17,9 +20,13 @@
   </a>
 </p>
 
-## 🚀 Download
+## 🚀 Get Started
 
-**[Download for Windows](https://github.com/kyunghoon5/stagepos-desktop/releases/latest)**
+### 🌐 **Web Version**
+**[Use StagePOS Web](https://stagepos.com)** - No installation required, works on any device
+
+### 💻 **Desktop Version**
+**[Download for Windows](https://github.com/kyunghoon5/stagepos-desktop/releases/latest)** - For thermal printer & cash drawer support
 
 ## ✨ Features
 
