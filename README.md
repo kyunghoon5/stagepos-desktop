@@ -64,7 +64,7 @@ Optional equipment you can buy from any supplier:
 ### 📝 **Summary**
 - **Software**: FREE forever
 - **Cash transactions**: FREE
-- **Card transactions**: 2.7% + $0.10 (Stripe fees only)
+- **Card transactions**: 2.7% + $0.10
 - **Hardware**: Buy once, use forever
 
 ## 📋 System Requirements
